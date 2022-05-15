@@ -1,6 +1,6 @@
 > Let there be light!
 
-A Python documentation website. CLONDE FROM GIT!!!
+A Python documentation website. CLONED FROM GIT!!!
 
 - **ugo_py_doc** is a corpus; a catalog of books, manuals, articles, presentations, videos, podcasts, summaries, notes, code snippets, excerpts, websites, etc.
 - The 'docs' is a searchable knowledge-based system.
