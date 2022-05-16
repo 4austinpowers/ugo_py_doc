@@ -33,19 +33,6 @@ plugins:
         - en
         - fr
 
-## Les icônes gitlab, twitter, linkedin dans le bandeau du bas.
-#extra:
-#  social:
-#    - type: 'gitlab'
-#      link: ''
-#    - type: 'twitter'
-#      link: ''
-#    - type: 'linkedin'
-#      link: ''
-#  disqus: 'your-shortname'
-## https://disqus.com/
-## repo_icon: 'github' # gitlab, bitbucket
-
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
 extra_css:
